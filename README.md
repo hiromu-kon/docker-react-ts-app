@@ -6,15 +6,15 @@ React.js + TypescriptのDocker開発環境構築サンプル
 ## 環境
 node v14.17
 
-## サンプルをクローン
+## クローン
 ```
 git clone https://github.com/hiromu-kon/docker-react-ts-app.git
+
+cd docker-react-ts-app
 ```
 
 ## インストール
 ```
-cd docker-react-ts-app
-
 docker-compose run --rm frontend sh -c 'cd frontend && yarn'
 ```
 
