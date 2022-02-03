@@ -1,4 +1,4 @@
-# React × TypescriptのDocker環境構築
+# React + TypescriptのDocker環境構築
 
 ## 概要
 React.js + TypescriptのDocker開発環境構築サンプル
